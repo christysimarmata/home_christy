@@ -1,0 +1,13 @@
+﻿
+Resolusi: 300 pixels/inch
+
+Judul : font roboto 119pt
+Color : #F1C71C
+
+Sub Judul : 42pt
+
+Konten : jenis font myrad  pro
+	 21pt
+
+kotak artikel
+#0D0C0D transparent 60%
